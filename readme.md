@@ -75,6 +75,6 @@ Está parte é o sistema de pontuação, quando você aperta a bandeira a pontua
 
 ---
 
-#Fim
+# Fim
 
 Embora eu tenha conseguido fazer uma engenharia dessa, o jogo parece simples mas deu para aprender como se comporta o Scratch 
